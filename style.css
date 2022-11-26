@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: black;
+    color: white;
+    margin: 50px;
+  }
+  p.paragraph {
+      margin-top: 20px;
+    display: inline-block;
+    border-bottom: 1px solid white;
+  }
+  p#error {
+    color: brown;
+    margin-top: 20px;
+  }
+  .button {
+    width: 180px;
+    height: 40px;
+    margin-right: 20px;
+    margin-top: 30px;
+  }
+   
+  .button1 {
+    background-color: black;
+    color: white;
+    border: 1px solid
+    
+  }
